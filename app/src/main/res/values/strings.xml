@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Clase4a</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="username">username</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="error_password">Error en el password</string>
+    <string name="error_usuario">Ingrese un nombre de usuario</string>
+    <string name="error_email">Ingrese un correo electronico</string>
+    <string name="mensaje_bienvenida">Bienvenido %1$s!!! Podés empezar a enviar correos con tu mail: %2$s</string>
+</resources>
