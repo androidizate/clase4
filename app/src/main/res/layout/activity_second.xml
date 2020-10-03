@@ -5,7 +5,7 @@
     android:gravity="center">
 
     <TextView
-        android:id="@+id/tv_bienvenida"
+        android:id="@+id/tv_welcome"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
